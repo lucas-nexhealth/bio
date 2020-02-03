@@ -1,2 +1,2 @@
-# bio
-About me
+# Bio
+Hi, I am Lucas! 
